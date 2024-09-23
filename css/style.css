@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.menu {
+    padding: 50px 0;
+} 
+.layout {
+    overflow: hidden;
+    width: 960px;
+    margin: 0 auto;
+}
+.img {
+    width: 25%;
+    float: left;
+    padding: 0 3px;
+    box-sizing: border-box;
+   }
+
+.img img {
+    width: 100%;
+}
